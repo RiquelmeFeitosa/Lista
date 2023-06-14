@@ -28,5 +28,14 @@
             </tr>
         </thead>
     </table>
+
+    <?php
+    
+    $lista = array(
+        'AC' => array(
+            'bandeira' => <img src="" alt="">
+            )
+    )
+    ?>
 </body>
 </html>
