@@ -8,6 +8,7 @@
 </head>
 
 <body>
+    <main>
     <h1>Lista Sintetica das Unidades federativas do Brasil</h1>
 
     <table>
@@ -483,6 +484,13 @@
             ?>
         </tbody>
     </table>
+    </main>
+    <footer>
+        <hr>
+        <br><br>
+        <p style="text-align: center;">Riquelme Farias - &copy;2023</p>
+        <br><br>
+    </footer>
 </body>
 
 </html>
