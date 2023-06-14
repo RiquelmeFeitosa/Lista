@@ -33,7 +33,7 @@
     
     $lista = array(
         'AC' => array(
-            'bandeira' => 'img'
+            'bandeira' => <img src="" alt="">
             )
     )
     ?>
